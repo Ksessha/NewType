@@ -1,4 +1,3 @@
-import { describe, test, expect, beforeEach } from '@jest/globals';
 import { Movie } from '../src/movie';
 import { Cart } from '../src/cart';
 
