@@ -1,20 +1,26 @@
 {
-  "name": "newtype",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ksessha/NewType.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ksessha/NewType/issues"
-  },
-  "homepage": "https://github.com/Ksessha/NewType#readme"
+    "name": "movie-shop",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "jest",
+      "test:watch": "jest --watch",
+      "test:coverage": "jest --coverage"
+    },
+    "devDependencies": {
+        "@types/jest": "^29.5.14",
+        "jest": "^29.7.0",
+        "ts-jest": "^29.3.4",
+        "typescript": "^5.8.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ksessha/NewType.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Ksessha/NewType/issues"
+    },
+    "homepage": "https://github.com/Ksessha/NewType#readme"
 }
